@@ -1,0 +1,12 @@
+/Project_Morph/.idea
+Project_Morph/.vsconfig
+Project_Morph/.vs/Project_Morph/v17/.suo
+Project_Morph/.p4ignore
+/Project_Morph/Binaries
+/Project_Morph/Intermediate
+/Project_Morph/Saved
+*.sln
+*.user
+/Project_Morph/Plugins/BlueprintAssist/Intermediate
+/Project_Morph/Plugins/BlueprintAssist/Binaries
+/Project_Morph/Plugins/BlueprintAssist/NodeSizeCache
